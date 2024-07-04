@@ -1,5 +1,5 @@
 {
-  "internalVersion" : "2024.1.1",
+  "internalVersion" : "2024.1.2",
   "id" : "209BF369-B1DA-4CBB-A27C-10A2B57B9196",
   "revSections" : [
     {
@@ -4493,7 +4493,7 @@
           "name" : "Items Cooked in the Multi-Pot Fryer are Cooked Properly"
         },
         {
-          "points" : 20,
+          "points" : 0,
           "id" : "A345738B-A8D8-4612-9E3E-DDE1E07DAC57",
           "code" : "FQ63",
           "escalation" : false,
@@ -9080,7 +9080,7 @@
           "name" : "Restaurant is compliant with GuestTRAC® and Guest Relations Program Standards"
         },
         {
-          "points" : 30,
+          "points" : 0,
           "id" : "6044F50B-0F5A-41D3-BA5E-4FFE7A14F378",
           "code" : "GS15C",
           "escalation" : false,
@@ -9148,7 +9148,7 @@
           "name" : "Team Members behave in a manner that demonstrates to Guests they are welcome at Burger King"
         },
         {
-          "points" : 20,
+          "points" : 0,
           "id" : "9B02B8A5-91E1-4AA2-96B7-0EE3BB2443CB",
           "code" : "GS15",
           "escalation" : false,
